@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="H:\project\Android-AOPExample\app\build\intermediates\exploded-aar\Android-AOPExample\gintonic\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="79fe7f477b7513df069c5f732f5313796ba38e6a">
+        <dex dex="H:\project\Android-AOPExample\app\build\intermediates\pre-dexed\debug\Android-AOPExample-gintonic-unspecified_d09be57db492c420220568d1c940f2b862710092.jar" />
+    </item>
+    <item
+        jar="C:\Users\20260368\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.1\5e7a0fa36cc24ead36d885b9d775bb31ffa8524c\aspectjrt-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e7a0fa36cc24ead36d885b9d775bb31ffa8524c">
+        <dex dex="H:\project\Android-AOPExample\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.1_ff7fa2dd9276b9760a0ed6c4df83d9923a42e1b8.jar" />
+    </item>
+
+</items>
